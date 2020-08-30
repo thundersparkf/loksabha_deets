@@ -7,3 +7,5 @@ Jupyter Notebook
  - Caste Representation
  - Age
  - Wealth disrtibution
+ 
+ > note: For convenience, please run it in Jupyter Notebooks.
