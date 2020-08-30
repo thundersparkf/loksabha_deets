@@ -1,0 +1,7 @@
+pandas
+altair
+geopandas
+numpy
+matplotlib
+bokeh
+seaborn
